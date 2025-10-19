@@ -1,7 +1,7 @@
 <!-- 🌌 AVADA KEDAVOR – Cybersecurity Student GitHub Profile -->
 
 <h1 align="center">
-  🪄 AVADA KEDAVOR
+   AVADA KEDAVOR
 </h1>
 
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
