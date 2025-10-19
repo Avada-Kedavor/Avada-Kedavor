@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/pacman-contribution-graph.svg" width="600" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/snake.svg" width="600" alt="snake" />
 </p>
 
 <p align="center">
