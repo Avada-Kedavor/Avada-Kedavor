@@ -7,9 +7,7 @@
 </h1>
 
 <!-- 🌟 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sansation&weight=700&size=28&duration=2000&pause=1000&color=C00000&background=00000000&width=800&height=80&lines=Cybersecurity+Student+from+Moscow;CTF+Player;Penetration+Tester;OSINT+Researcher;Dark+Web+Researcher" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation+&weight=800&size=40&duration=2000&pause=1000&color=C00000&background=FFED0C00&center=true&random=true&width=1000&height=150&lines=Cybersecurity+Student+from+Moscow;CTF+Player;Penetration+Tester;OSINT+Researcher;Dark+Web+Researcher)](https://git.io/typing-svg)
 
 ---
 
