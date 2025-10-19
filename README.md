@@ -57,12 +57,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avada-Kedavor&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avada-Kedavor&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avada-Kedavor&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avada-Kedavor&theme=dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avada-Kedavor&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avada-Kedavor&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007F&center=true&vCenter=true&width=400&lines=Coming+Soon...;Building+Something+Powerful+💻" alt="Coming Soon Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF007F&center=true&vCenter=true&width=400&lines=Coming+Soon...;Building+Something+Powerful+💻" alt="Coming Soon" />
 </p>
 
 ---
