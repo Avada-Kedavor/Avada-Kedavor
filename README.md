@@ -1,12 +1,15 @@
 <!-- 🌌 AVADA KEDAVOR – Cybersecurity Student GitHub Profile -->
 
 <h1 align="center">
-  🪄 AVADA KEDAVOR
+   AVADA KEDAVOR
 </h1>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/pacman-contribution-graph.svg" width="600" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;Reverse+Engineering+Enthusiast;Dark+Web+Researcher+%7C+Python+Automator" alt="Typing SVG" />
