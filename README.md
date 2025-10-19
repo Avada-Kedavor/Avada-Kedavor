@@ -14,7 +14,7 @@
 <h2 align="center">About Me / О себе</h2>
 
 <p align="center">
-Cybersecurity student based in Moscow. I enjoy solving CTFs, penetration testing, and OSINT research. Currently exploring Active Directory attacks and malware analysis.<br>
+Cybersecurity student based in Moscow. I enjoy solving CTFs, penetration testing, and OSINT research. Currently exploring Active Directory attacks and malware analysis.<br><br>
 Студент кибербезопасности из Москвы. Увлекаюсь CTF, пентестингом и исследованиями OSINT. В данный момент изучаю атаки на Active Directory и анализ вредоносного ПО.
 </p>
 
