@@ -5,13 +5,7 @@
 </h1>
 
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
-<p align="center">
-  <!-- snake.svg появится автоматически, когда GitHub Action создаст ветку output -->
-  <img src="https://github.com/Avada-Kedavor/Avada-Kedavor/raw/output/snake.svg"
-       alt="Snake animation"
-       width="700"
-       style="max-width:100%; height:auto;">
-</p>
+<img src="https://github.com/Avada-Kedavor/Avada-Kedavor/raw/output/snake.svg" alt="snake" />
 
 <!-- 💻 ANIMATED TITLE -->
 <p align="center">
