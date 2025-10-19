@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # обновляется каждые 12 часов
+    - cron: "0 */12 * * *" # обновляется каждые 12 часов
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Avada-Kedavor
           outputs: dist/snake.svg
-          color_snake: "#00FFB3"        # Цвет змейки (неоново-зелёный)
-          color_dots: "#161B22,#00FFB3,#39FF14,#0D1117,#FFFFFF"  # Цвета точек
+          # Настройки цвета
+          palette: "#0D1117 #00FFB3 #39FF14 #161B22 #0D1117"
+          color_snake: "#00FFB3"
+          color_dots: "#0D1117,#00FFB3,#39FF14,#0D1117,#FFFFFF"
+          color_background: "#0D1117"
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
