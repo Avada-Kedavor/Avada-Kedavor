@@ -9,7 +9,7 @@
 
 <!-- 💻 ANIMATED TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;Reverse+Engineering+Enthusiast;Dark+Web+Researcher+%7C+Python+Automator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;Reverse+Engineering+Beginer;Dark+Web+Researcher" alt="Typing SVG" />
 </p>
 
 ---
