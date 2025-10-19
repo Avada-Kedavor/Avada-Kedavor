@@ -1,10 +1,14 @@
+<!-- ========================= -->
+<!-- AVADA KEDAVOR – Cybersecurity Student GitHub Profile -->
+<!-- ========================= -->
+
 <h1 align="center">
   AVADA KEDAVOR
 </h1>
 
+<!-- 🌟 Typing Animation -->
 <p align="center">
-  <strong>Cybersecurity Student | CTF Player | Penetration Tester | OSINT Researcher | Dark Web Researcher</strong><br>
-  <em>Студент кибербезопасности | Участник CTF | Пентестер | Исследователь OSINT | Исследователь Dark Web</em>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=8000&size=30&duration=2000&pause=1000&color=69C00E&background=FFED0C00&random=true&width=800&height=100&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;OSINT+and+Dark+Web+Researcher;Exploring+Active+Directory+attacks+and+malware+analysis)](https://git.io/typing-svg)
 </p>
 
 ---
@@ -86,6 +90,14 @@ Building practical cybersecurity tools and CTF writeups. / Создаю инст
 
 ---
 
+<h2 align="center">GitHub Stats / Статистика GitHub</h2>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/8d831096bcddd291f29f2fbb913f74a50b66f2d5483a99a93448769cab5ce27a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" />
+</p>
+
+---
+
 <h2 align="center">Contact / Контакты</h2>
 
 <p align="center">
@@ -96,6 +108,8 @@ Building practical cybersecurity tools and CTF writeups. / Создаю инст
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
+---
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
