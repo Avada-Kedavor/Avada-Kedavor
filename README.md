@@ -1,14 +1,5 @@
 # AVADA KEDAVOR
 
-      O)                                 O))                 O))   O))                 O))                                      
-     O) ))                               O))                 O))  O))                  O))                                      
-    O)  O))    O))     O))   O))         O))   O))           O)) O))       O))         O))   O))    O))     O))   O))    O) O)))
-   O))   O))    O))   O))  O))  O))  O)) O)) O))  O))        O) O)       O)   O))  O)) O)) O))  O))  O))   O))  O))  O))  O))   
-  O)))))) O))    O)) O))  O))   O)) O)   O))O))   O))        O))  O))   O))))) O))O)   O))O))   O))   O)) O))  O))    O)) O))   
- O))       O))    O)O))   O))   O)) O)   O))O))   O))        O))   O))  O)        O)   O))O))   O))    O)O))    O))  O))  O))   
-O))         O))    O))      O)) O))) O)) O))  O)) O)))       O))     O))  O))))    O)) O))  O)) O)))    O))       O))    O)))   
-                                                                                                                                
-
 ---
 
 ## 👋 About Me
