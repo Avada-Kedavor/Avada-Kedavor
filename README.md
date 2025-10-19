@@ -4,12 +4,18 @@
   🪄 AVADA KEDAVOR
 </h1>
 
+<!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/snake.svg" width="600" alt="snake" />
+  <!-- snake.svg появится автоматически, когда GitHub Action создаст ветку output -->
+  <img src="https://github.com/Avada-Kedavor/Avada-Kedavor/raw/output/snake.svg"
+       alt="Snake animation"
+       width="700"
+       style="max-width:100%; height:auto;">
 </p>
 
+<!-- 💻 ANIMATED TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;Reverse+Engineering+Enthusiast;Dark+Web+Researcher+%7C+Python+Automator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+from+Moscow;CTF+Player+%7C+Penetration+Tester;Reverse+Engineering+Enthusiast;Dark+Web+Researcher+%7C+Python+Automator" alt="Typing SVG" />
 </p>
 
 ---
@@ -92,12 +98,14 @@
 <h2 align="center">📫 Contact</h2>
 
 <p align="center">
-  <a href="mailto:avadakedavor@gmail.com"><img src="https://img.shields.io/badge/Email-avadakedavor%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:avadakedavor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-avadakedavor%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+<!-- 🌊 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
