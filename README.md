@@ -5,7 +5,7 @@
 </h1>
 
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
-<img src="https://github.com/Avada-Kedavor/Avada-Kedavor/raw/output/snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/snake.svg" alt="Snake animation" />
 
 <!-- 💻 ANIMATED TITLE -->
 <p align="center">
