@@ -1,5 +1,15 @@
 # AVADA KEDAVOR
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Avada-Kedavor/Avada-Kedavor/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=15410823721959571" height="713" width="345" frameborder="0" scrolling="no" ></iframe>
+
 ---
 
 ## 👋 About Me
