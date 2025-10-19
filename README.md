@@ -5,7 +5,8 @@
 
 ###
 
-![Animated Preview](https://media.giphy.com/media/your-gif-id/giphy.gif)
+[![Animated Preview](https://media.giphy.com/media/your-gif-id/giphy.gif)
+](https://ru.pinterest.com/pin/15410823721959571/)
 
 ---
 
