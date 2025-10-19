@@ -8,7 +8,7 @@
 
 <!-- 🌟 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sansation&weight=700&size=30&duration=2000&pause=1000&color=C00000&background=00000000&width=800%&height=80&lines=Cybersecurity+Student+from+Moscow;CTF+Player;Penetration+Tester;OSINT+Researcher;Dark+Web+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sansation&weight=800&size=30&duration=2000&pause=1000&color=C00000&background=00000000&width=800%&height=80&lines=Cybersecurity+Student+from+Moscow;CTF+Player;Penetration+Tester;OSINT+Researcher;Dark+Web+Researcher" alt="Typing SVG" />
 </p>
 
 ---
