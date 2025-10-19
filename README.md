@@ -1,16 +1,12 @@
 # AVADA KEDAVOR
 
-                                                                                                                      
-                                   ,,                                           ,,                                    
-      db                         `7MM               `7MMF' `YMM'              `7MM                                    
-     ;MM:                          MM                 MM   .M'                  MM                                    
-    ,V^MM.`7M'   `MF',6"Yb.   ,M""bMM   ,6"Yb.        MM .d"     .gP"Ya    ,M""bMM   ,6"Yb.`7M'   `MF',pW"Wq.`7Mb,od8 
-   ,M  `MM  VA   ,V 8)   MM ,AP    MM  8)   MM        MMMMM.    ,M'   Yb ,AP    MM  8)   MM  VA   ,V 6W'   `Wb MM' "' 
-   AbmmmqMA  VA ,V   ,pm9MM 8MI    MM   ,pm9MM        MM  VMA   8M"""""" 8MI    MM   ,pm9MM   VA ,V  8M     M8 MM     
-  A'     VML  VVV   8M   MM `Mb    MM  8M   MM        MM   `MM. YM.    , `Mb    MM  8M   MM    VVV   YA.   ,A9 MM     
-.AMA.   .AMMA. W    `Moo9^Yo.`Wbmd"MML.`Moo9^Yo.    .JMML.   MMb.`Mbmmd'  `Wbmd"MML.`Moo9^Yo.   W     `Ybmd9'.JMML.   
-                                                                                                                      
-                                                                                                                      
+██       ▄   ██   ██▄   ██       █  █▀ ▄███▄   ██▄   ██       ▄   ████▄ █▄▄▄▄ 
+█ █       █  █ █  █  █  █ █      █▄█   █▀   ▀  █  █  █ █       █  █   █ █  ▄▀ 
+█▄▄█ █     █ █▄▄█ █   █ █▄▄█     █▀▄   ██▄▄    █   █ █▄▄█ █     █ █   █ █▀▀▌  
+█  █  █    █ █  █ █  █  █  █     █  █  █▄   ▄▀ █  █  █  █  █    █ ▀████ █  █  
+   █   █  █     █ ███▀     █       █   ▀███▀   ███▀     █   █  █          █   
+  █     █▐     █          █       ▀                    █     █▐          ▀    
+ ▀      ▐     ▀          ▀                            ▀      ▐                
 
 ---
 
